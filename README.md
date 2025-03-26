@@ -4,6 +4,6 @@ A simple hotel management website created using MERN Stack.
 
 Steps to RUN:
  1)Make sure you've downloaded nodejs and all of its packages along with React App,Mongo DB and express JS.
- 2)Run the command npm install to install all the dependencies.
+ 2)Run the command npm install in terminal to install all the dependencies.
  3)Run the React environment by opening Terminal with respect to to React app and then type npm start.
  4)Consecutively open the terminal with respect to server.js in Backend folder and then  type nodemon server.js .
